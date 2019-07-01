@@ -5,4 +5,5 @@ steps:
 - name: tpLaboDrone
   image: gradle:jdk10
   commands:
+  - ./gradlew assemble
   - ./gradlew check
