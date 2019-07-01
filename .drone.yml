@@ -3,7 +3,8 @@ name: default
 
 steps:
 - name: tpLaboDrone
-  image: gradle:jdk10
+  image: gradle:jdk8
   commands:
+  - ls
   - ./gradlew assemble
   - ./gradlew check
