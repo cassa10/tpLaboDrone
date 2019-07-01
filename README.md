@@ -7,7 +7,9 @@
 Integrantes |
 ------------|
 Jose Luis Cassano|
+------------ |
 Uriel Quevedo|
+-------------|
 
 El objetivo es utilizar este repositorio, como un ejemplo de Continuous Integration(CI), utilizando el servidor Drone que nosotros instanciamos localmente.
 
