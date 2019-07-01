@@ -1,6 +1,6 @@
-build:
- image: java:openjdk-7
- environment:
-  - GRADLE_USER_HOME=~/.gradle
- commands:
-  - ./gradlew test
+pipeline:
+ build:
+  image: lwieske/java-8
+ test:
+  commands:
+   - ./gradlew check
