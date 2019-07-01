@@ -1,6 +1,6 @@
 pipeline:
  build:
-  image: lwieske/java-8
+  image: java
  test:
   commands:
    - ./gradlew check
