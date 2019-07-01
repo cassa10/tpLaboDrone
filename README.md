@@ -3,7 +3,7 @@
 ## Laboratorio de Redes y Sistemas Operativos
 ## Universidad Nacional de Quilmes
 
-------------|
+
 Integrantes |
 ------------|
 Jose Luis Cassano|
