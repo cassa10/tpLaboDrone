@@ -2,8 +2,9 @@
 
 [![Build Status](http://532e43a9.ngrok.io/api/badges/cassa10/tpLaboDrone/status.svg)](http://532e43a9.ngrok.io/cassa10/tpLaboDrone)
 
-## Laboratorio de Redes y Sistemas Operativos
 ## Universidad Nacional de Quilmes
+## Laboratorio de Redes y Sistemas Operativos
+
 
 
 Integrantes |
@@ -18,6 +19,5 @@ El objetivo es utilizar este repositorio, como un ejemplo de Continuous Integrat
 - Cucumber (ATDD)
 - JUnit (TDD)
 - Drone (CI)
-
 
 
