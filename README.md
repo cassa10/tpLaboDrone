@@ -17,5 +17,5 @@ El objetivo es utilizar este repositorio, como un ejemplo de Continuous Integrat
 - JUnit (TDD)
 - Drone (CI)
 
-[![Build Status](http://192.168.0.13/api/badges/cassa10/tpLaboDrone/status.svg)](http://192.168.0.13/cassa10/tpLaboDrone)
+[![Build Status](http://532e43a9.ngrok.io/api/badges/cassa10/tpLaboDrone/status.svg)](http://192.168.0.13/cassa10/tpLaboDrone)
 
